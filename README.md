@@ -2,8 +2,24 @@
 
 ##Setup Python
 
-## Download
+### Download
  * http://conda.pydata.org/miniconda.html
 
-## Install packages
- * numpy scipy pandas matplotlib seaborn 
+### Install and loading
+    conda numpy scipy pandas matplotlib seaborn jupyter
+    import package_name # after loading python
+
+
+# R
+
+##Setup R
+
+### Download
+ * https://www.r-project.org/
+
+### Installing and loading packages
+    install.packages("package_name") 
+    require(package_name)
+    
+
+    
