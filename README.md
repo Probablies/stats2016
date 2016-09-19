@@ -1,8 +1,9 @@
-# stats2016
-Setup Python
+# Python
 
-# Download:
+##Setup Python
+
+## Download
  * http://conda.pydata.org/miniconda.html
 
-# Install packages:
+## Install packages
  * numpy scipy pandas matplotlib seaborn 
