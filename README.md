@@ -6,7 +6,10 @@
  * http://conda.pydata.org/miniconda.html
 
 ### Install 
-    conda install numpy scipy pandas matplotlib seaborn jupyter
+    conda install numpy scipy pandas matplotlib seaborn jupyter scikit-learn
+    
+    
+    
     # after install is complete start up jupyter notebook
     jupyter-notebook
     # once this is done
