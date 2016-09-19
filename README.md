@@ -6,7 +6,7 @@
  * http://conda.pydata.org/miniconda.html
 
 ### Install and loading
-    conda numpy scipy pandas matplotlib seaborn jupyter
+    conda install numpy scipy pandas matplotlib seaborn jupyter
     import package_name # after loading python
 
 
