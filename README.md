@@ -2,11 +2,11 @@
 
 ##Setup Python
 
-### Download
+### Download and install
  * http://conda.pydata.org/miniconda.html
 
-### Install 
-    # in the terminal
+### Install packages
+    # in the terminal after install conda
     conda install numpy scipy pandas matplotlib seaborn jupyter scikit-learn
     
 ### Startup
@@ -24,7 +24,7 @@
 
 ##Setup R
 
-### Download
+### Download and install
  * https://www.r-project.org/
 
 ### Installing and loading packages
