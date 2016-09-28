@@ -16,7 +16,7 @@
 ## problem set:
 
        1. assess normality of data visually
-       2. plot relationship between two variables
+       2. plot relationship between two variables (scatter plot)
           a. plot and explain regression line
           b. plot and explain 95% confidence interval 
 
