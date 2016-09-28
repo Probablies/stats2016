@@ -19,3 +19,4 @@ problem set:
           b. plot and explain 95% confidence interval 
        3. z-norm the data
           a. check for outliers (not visually)
+          b. explain why they are outliers, and how you check them
