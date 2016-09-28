@@ -1,0 +1,1 @@
+## Parametric test: test that requires the data being used to come from one of the statistical distributions
