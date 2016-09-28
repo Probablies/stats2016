@@ -1,6 +1,10 @@
 ## Parametric test: test that requires the data being used to come from one of the statistical distributions and meet certain assumptions. 
  
     ## Assumptions: 1. normally distributed data (sample distribution or model errors)
+                          a. sampling distrubtion must be normally distributed (we don't have access to this, only to sample data)
+                          b. per central limit theorem, for larger samples (N > 30), the sampling distribution tends to be normal,
+                             so if the sampled data doesn't look normal but the sampling distribution is, we're ok (but not really). 
+                          c. 
                     2. homogeneity of variance (variance between groups, between variable)
                     3. data must at least satisfy "interval criteria" 
                     4. independence (inter-sample independence)
