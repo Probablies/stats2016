@@ -2,6 +2,6 @@
  
     ## Assumptions: 1. normally distributed data (sample distribution or model errors)
                     2. homogeneity of variance (variance between groups, between variable)
-                    3. data must at least satify "interval criteria" 
+                    3. data must at least satisfy "interval criteria" 
                     4. independence (sample independence)
 
